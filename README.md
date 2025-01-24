@@ -5,7 +5,7 @@
 </p>
 
 <a href="https://www.linkedin.com/in/daniel-silva-reina-710907347/">
-    <img src="./assets/linkedin-icon.png" alt="LinkedIn" width="50">
+    <img src="./assets/linkedin-icon.png" alt="LinkedIn" width="120">
 </a>
 
 

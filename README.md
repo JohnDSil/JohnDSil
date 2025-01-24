@@ -10,7 +10,7 @@
 
 ![JohnDSil GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDSil\&show_icons=true\&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDSil)
+![JohnDSil](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDSil)
 
 
 ![JohnDSil WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohnDSil)

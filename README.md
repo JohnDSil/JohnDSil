@@ -13,7 +13,7 @@
 ![JohnDSil](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDSil)
 
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs\&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JohnDSil\&layout=compact)
 
 
 <!--

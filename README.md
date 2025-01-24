@@ -1,5 +1,10 @@
 ## Hola a tod@s 👋 y bienvenid@s a mi GitHub.
 
+<p align="center">
+  <img src="/img/economia.gif" alt="![economia](/img/economia.gif)"/>
+</p>
+
+
 <!--
 **JohnDSil/JohnDSil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

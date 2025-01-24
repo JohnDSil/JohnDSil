@@ -1,4 +1,4 @@
-## Hola a tod@s 👋
+## Hola a tod@s 👋 y bienvenid@s a mi GitHub.
 
 <!--
 **JohnDSil/JohnDSil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

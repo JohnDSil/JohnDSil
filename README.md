@@ -8,7 +8,7 @@
     <img src="./assets/linkedin-icon.png" alt="LinkedIn" width="120">
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&show_icons=true\&theme=radical)
+![JohnDSil GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDSil\&show_icons=true\&theme=radical)
 
 
 

@@ -1,7 +1,7 @@
 ## Hola a tod@s 👋 y bienvenid@s a mi GitHub.
 
 <p align="center">
-  <img src="/img/economia.gif" alt="![economia](/img/economia.gif)"/>
+  <img src="/img/03ypIkbEsTAJS.jpg" alt="![economia](/img/03ypIkbEsTAJS.jpg)"/>
 </p>
 
 

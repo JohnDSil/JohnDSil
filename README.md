@@ -4,9 +4,8 @@
   <img src="/img/03ypIkbEsTAJS.jpg" alt="![economia](/img/03ypIkbEsTAJS.jpg)"/>
 </p>
 
-<a href="https://www.linkedin.com/in/daniel-silva-reina-710907347/" target="_blank">
-    <img src="tu-imagen.png" alt="Badge de LinkedIn" style="width:200px;">
-</a>
+[![LinkedIn](./assets/linkedin-icon.png)](https://www.linkedin.com/in/daniel-silva-reina-710907347/)
+
 
 
 <!--

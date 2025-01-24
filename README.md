@@ -4,6 +4,10 @@
   <img src="/img/03ypIkbEsTAJS.jpg" alt="![economia](/img/03ypIkbEsTAJS.jpg)"/>
 </p>
 
+<a href="https://www.linkedin.com/in/daniel-silva-reina-710907347/" target="_blank">
+    <img src="tu-imagen.png" alt="Badge de LinkedIn" style="width:200px;">
+</a>
+
 
 <!--
 **JohnDSil/JohnDSil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

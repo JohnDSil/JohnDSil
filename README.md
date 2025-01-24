@@ -4,7 +4,10 @@
   <img src="/img/03ypIkbEsTAJS.jpg" alt="![economia](/img/03ypIkbEsTAJS.jpg)"/>
 </p>
 
-[![LinkedIn](./assets/linkedin-icon.png)](https://www.linkedin.com/in/daniel-silva-reina-710907347/)
+<a href="https://www.linkedin.com/in/daniel-silva-reina-710907347/">
+    <img src="./assets/linkedin-icon.png" alt="LinkedIn" width="50">
+</a>
+
 
 
 

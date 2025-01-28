@@ -1,8 +1,9 @@
 ## <h1 align="center"><b>Hola a tod@s y bienvenid@s a mi perfil de GitHub.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="/img/original.gif" alt="![economia](/img/original.gif)"/>
+  <img src="/img/original.gif" alt="![economia](/img/original.gif)" width="600" />
 </p>
+
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me

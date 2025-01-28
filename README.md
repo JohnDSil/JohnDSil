@@ -4,6 +4,8 @@
   <img src="/img/03ypIkbEsTAJS.jpg" alt="![economia](/img/03ypIkbEsTAJS.jpg)"/>
 </p>
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
 <a href="https://www.linkedin.com/in/daniel-silva-reina-710907347/">
     <img src="./assets/linkedin-icon.png" alt="LinkedIn" width="120">
 </a>

@@ -4,7 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-👋 ¡Hola! Soy [Tu Nombre], estudiante de un grado superior de Administración de Sistemas Informáticos en Red (ASIR). 
+👋 ¡Hola! Soy Daniel, estudiante de grado superior de Administración de Sistemas Informáticos en Red (ASIR). 
 
 💻 Apasionado por la tecnología, la programación y el aprendizaje continuo. Estoy desarrollando mis habilidades en administración de sistemas, 
 redes y desarrollo de software, mientras exploro herramientas y lenguajes como.

@@ -13,7 +13,7 @@
 👋 ¡Hola! Soy Daniel, estudiante de grado superior de Administración de Sistemas Informáticos en Red (ASIR). 
 
 💻 Apasionado por la tecnología, la programación y el aprendizaje continuo. Estoy desarrollando mis habilidades en administración de sistemas, 
-redes y desarrollo de software, mientras exploro herramientas y lenguajes como.
+redes y desarrollo de software, mientras exploro herramientas y lenguajes.
 
 - 📡 **Intereses:** Seguridad informática, virtualización y automatización de sistemas.
 

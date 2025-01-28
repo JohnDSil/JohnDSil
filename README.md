@@ -20,21 +20,6 @@ redes y desarrollo de software, mientras exploro herramientas y lenguajes como.
 📬 ¡Contáctame para colaborar o compartir ideas!
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <a href="https://www.linkedin.com/in/daniel-silva-reina-710907347/">
@@ -62,6 +47,8 @@ redes y desarrollo de software, mientras exploro herramientas y lenguajes como.
 <br>
 
 ![JohnDSil GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDSil\&show_icons=true\&theme=radical)
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 
 
 

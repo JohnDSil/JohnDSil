@@ -1,4 +1,4 @@
-## Hola a tod@s 👋 y bienvenid@s a mi perfil de GitHub.
+## <h1 align="center"><b>Hola a tod@s y bienvenid@s a mi perfil de GitHub.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="/img/03ypIkbEsTAJS.jpg" alt="![economia](/img/03ypIkbEsTAJS.jpg)"/>

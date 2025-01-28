@@ -48,7 +48,7 @@ redes y desarrollo de software, mientras exploro herramientas y lenguajes como.
 
 ![JohnDSil GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDSil\&show_icons=true\&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohnDSil&show_icons=true&theme=dark&locale=en&layout=compact" alt="JohnDSil
+
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohnDSil&layout=compact&langs_count=8&theme=algolia"/>
 

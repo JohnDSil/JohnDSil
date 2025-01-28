@@ -4,6 +4,23 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <a href="https://www.linkedin.com/in/daniel-silva-reina-710907347/">

@@ -4,6 +4,20 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+👋 ¡Hola! Soy [Tu Nombre], estudiante de un grado superior de Administración de Sistemas Informáticos en Red (ASIR). 
+
+💻 Apasionado por la tecnología, la programación y el aprendizaje continuo. Estoy desarrollando mis habilidades en administración de sistemas, 
+redes y desarrollo de software, mientras exploro herramientas y lenguajes como.
+
+- 📡 **Intereses:** Seguridad informática, virtualización y automatización de sistemas.
+
+🎯 **Objetivo:** Convertirme en un profesional versátil en el ámbito IT, contribuyendo a proyectos innovadores y ayudando a solucionar problemas tecnológicos.
+
+🚀 Me encanta aprender nuevas tecnologías y colaborar en proyectos interesantes, así que no dudes en conectar conmigo.
+
+✨ **Más allá de la tecnología:** También me interesan los videojuegos y la lectura.
+
+📬 ¡Contáctame para colaborar o compartir ideas!
 
 
 

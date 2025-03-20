@@ -15,7 +15,7 @@
 💻 Apasionado por la tecnología, la programación y el aprendizaje continuo. Estoy desarrollando mis habilidades en administración de sistemas, 
 redes y desarrollo de software, mientras exploro herramientas y lenguajes.
 
-- 📡 **Intereses:** Seguridad informática, virtualización y automatización de sistemas.
+📡 **Intereses:** Seguridad informática, virtualización y automatización de sistemas.
 
 🎯 **Objetivo:** Convertirme en un profesional versátil en el ámbito IT, contribuyendo a proyectos innovadores y ayudando a solucionar problemas tecnológicos.
 

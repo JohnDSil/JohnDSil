@@ -42,7 +42,7 @@ redes y desarrollo de software, mientras exploro herramientas y lenguajes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,linux,gmail,md,mysql,&perline=14" />
+    <img src="https://skillicons.dev/icons?i=discord,github,linux,gmail,md,powershell,ubuntu,windows,visualstudio,html,mysql,&perline=14" />
   </a>
 </p>   
 

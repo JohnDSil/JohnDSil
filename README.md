@@ -210,9 +210,7 @@ hobbies: ["Gaming 🎮", "Reading 📚", "Tech Blogging ✍️"]
 
 <div align="center">
   
-### 🎵 **Spotify - Programando con...**
-  
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify)](https://open.spotify.com/user/tu-usuario-spotify)
+
 
 ### 💭 **Frase Motivacional**
   
@@ -222,10 +220,7 @@ hobbies: ["Gaming 🎮", "Reading 📚", "Tech Blogging ✍️"]
 
 ---
 
-<!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/JohnDSil/JohnDSil/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+
 
 ---
 

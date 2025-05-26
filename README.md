@@ -1,61 +1,106 @@
-## <h1 align="center"><b>Hola a tod@s y bienvenid@s a mi perfil de GitHub.</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# <div align="center">¡Hola! Soy Daniel Silva 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Estudiante+ASIR;Futuro+Administrador+de+Sistemas;Apasionado+por+la+Tecnología" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="/img/original.gif" alt="![economia](/img/original.gif)" width="600" />
+  <img src="/img/original.gif" alt="Banner" width="600" />
 </p>
 
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Sobre mí
 
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="300px">
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+🎓 **Estudiante** de Administración de Sistemas Informáticos en Red (ASIR)
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+💻 **Apasionado** por la tecnología, programación y el aprendizaje continuo
 
-👋 ¡Hola! Soy Daniel, estudiante de grado superior de Administración de Sistemas Informáticos en Red (ASIR). 
+🔧 **Desarrollando habilidades** en:
+- Administración de sistemas y redes
+- Desarrollo de software
+- Automatización de procesos
 
-💻 Apasionado por la tecnología, la programación y el aprendizaje continuo. Estoy desarrollando mis habilidades en administración de sistemas, 
-redes y desarrollo de software, mientras exploro herramientas y lenguajes.
+🎯 **Áreas de interés:**
+- 🔐 Seguridad informática
+- 🖥️ Virtualización
+- ⚙️ Automatización de sistemas
+- 🌐 Redes y conectividad
 
-📡 **Intereses:** Seguridad informática, virtualización y automatización de sistemas.
+🚀 **Objetivo profesional:** Convertirme en un profesional versátil en el ámbito IT, contribuyendo a proyectos innovadores y resolviendo problemas tecnológicos complejos
 
-🎯 **Objetivo:** Convertirme en un profesional versátil en el ámbito IT, contribuyendo a proyectos innovadores y ayudando a solucionar problemas tecnológicos.
+🎮 **Más allá del código:** Videojuegos, lectura y exploración de nuevas tecnologías
 
-🚀 Me encanta aprender nuevas tecnologías y colaborar en proyectos interesantes, así que no dudes en conectar conmigo.
+<br clear="right"/>
 
-✨ **Más allá de la tecnología:** También me interesan los videojuegos y la lectura.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tecnologías y Herramientas
 
-📬 ¡Contáctame para colaborar o compartir ideas!
-
-
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
-
-<a href="https://www.linkedin.com/in/daniel-silva-reina-710907347/">
-    <img src="./assets/linkedin-icon.png" alt="LinkedIn" width="120">
-</a>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
-
-
-<br>
-
-- **Softwares and Tools**:
-
+### 💻 Lenguajes y Frameworks
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,github,linux,gmail,md,powershell,ubuntu,windows,visualstudio,html,mysql,&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,bash,powershell&perline=6" />
+</p>
+
+### 🛠️ Herramientas y Sistemas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,mysql,github,vscode,discord&perline=7" />
+</p>
+
+### 🔧 Especialización ASIR
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,nginx,apache,debian,redhat&perline=5" />
+</p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Estadísticas de GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnDSil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDSil&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnDSil&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 📈 Actividad de Contribuciones
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnDSil&theme=tokyo-night&hide_border=true" />
+</div>
+
+## 🤝 Conecta conmigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/daniel-silva-reina-710907347/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>   
+  <a href="mailto:tu-email@ejemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/JohnDSil" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
+## 🎯 Proyectos Destacados
 
-</p>
+<div align="center">
+  <a href="https://github.com/JohnDSil/proyecto1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnDSil&repo=proyecto1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/JohnDSil/proyecto2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JohnDSil&repo=proyecto2&theme=tokyonight" />
+  </a>
+</div>
 
-<br>
-<br>
+---
 
-![JohnDSil GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnDSil\&show_icons=true\&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDSil\&layout=donut)](https://github.com/JohnDSil/github-readme-stats)
-
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+  💡 *"El único modo de hacer un gran trabajo es amar lo que haces"* - Steve Jobs
+  
+  <img src="https://komarev.com/ghpvc/?username=JohnDSil&color=blueviolet&style=flat-square&label=Visitas+al+perfil"/>
+</div>
 
 
 

@@ -1,25 +1,26 @@
-<!-- Header con animación -->
+<!-- Header con animación mejorada -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=200&section=header&text=Daniel%20Silva&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Administrador%20de%20Sistemas%20en%20Formación&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Daniel%20Silva&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=🚀%20Administrador%20de%20Sistemas%20en%20Formación%20🔧&descAlignY=55&descAlign=50&descSize=20"/>
 </div>
 
-<!-- Typing animation -->
+<!-- Typing animation mejorada -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👨‍💻+Estudiante+ASIR;🔧+DevOps+%26+SysAdmin+Enthusiast;🚀+Automatización+%26+Scripting;💡+Aprendizaje+Continuo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=👨‍💻+Estudiante+ASIR+%7C+Futuro+SysAdmin;🔧+DevOps+%26+Cloud+Enthusiast;🚀+Automatización+%26+Infraestructura;💡+Aprendizaje+Continuo+%26+Innovación;🔐+Seguridad+%26+Redes" alt="Typing SVG" />
 </div>
 
-<!-- Profile views y badges -->
+<!-- Profile views y badges mejorados -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JohnDSil&color=4ECDC4&style=for-the-badge&label=VISITAS"/>
-  <img src="https://img.shields.io/github/followers/JohnDSil?style=for-the-badge&color=4ECDC4&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/github/stars/JohnDSil?style=for-the-badge&color=4ECDC4&labelColor=1a1a1a"/>
+  <img src="https://komarev.com/ghpvc/?username=JohnDSil&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/JohnDSil?style=for-the-badge&color=00D9FF&labelColor=1a1a1a&logo=github"/>
+  <img src="https://img.shields.io/github/stars/JohnDSil?style=for-the-badge&color=FF6B6B&labelColor=1a1a1a&logo=github"/>
+  <img src="https://img.shields.io/badge/Status-Learning-brightgreen?style=for-the-badge&logo=rocket"/>
 </div>
 
 <br>
 
-<!-- Banner personalizado -->
+<!-- Separador visual -->
 <div align="center">
-  <img src="https://github.com/JohnDSil/JohnDSil/blob/main/assets/banner.gif" alt="Banner" width="800" style="border-radius: 15px;"/>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
 ---
@@ -29,105 +30,158 @@
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="400" height="300"/>
 
 ```yaml
-name: Daniel Silva
-located_in: España
-current_focus: Administración de Sistemas Informáticos en Red (ASIR)
-education: Grado Superior en ASIR
-interests: [
-  "Seguridad Informática",
-  "Virtualización", 
-  "Automatización",
-  "DevOps",
-  "Cloud Computing"
+🏷️ name: "Daniel Silva"
+📍 location: "España"
+🎯 current_focus: "Administración de Sistemas Informáticos en Red (ASIR)"
+🎓 education: "Grado Superior en ASIR"
+🔥 passion: [
+  "🛡️ Seguridad Informática",
+  "☁️ Virtualización & Cloud", 
+  "🤖 Automatización",
+  "🔄 DevOps Culture",
+  "📊 Monitoring & Observability"
 ]
-currently_learning: [
-  "Docker & Kubernetes",
-  "Ansible",
-  "Terraform",
-  "CI/CD Pipelines"
+📚 currently_learning: [
+  "🐳 Docker & Kubernetes",
+  "⚙️ Ansible & Terraform",
+  "🚀 CI/CD Pipelines",
+  "☁️ AWS Cloud Services"
 ]
-hobbies: ["Gaming 🎮", "Reading 📚", "Tech Blogging ✍️"]
+🎮 hobbies: ["Gaming 🎮", "Tech Reading 📚", "Blogging ✍️", "HomeLabbing 🏠"]
+💬 languages: ["Spanish 🇪🇸", "English 🇬🇧"]
 ```
 
 ### 🎯 **Objetivo Profesional**
-> *Convertirme en un Administrador de Sistemas experto, especializado en automatización y DevOps, contribuyendo a la transformación digital de las organizaciones.*
+> *🚀 Convertirme en un **Administrador de Sistemas Senior**, especializado en **automatización** y **DevOps**, liderando la transformación digital y construyendo infraestructuras resilientes y escalables.*
 
 <br clear="right"/>
 
+<!-- Separador ondulado -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
-## 🛠️ **Stack Tecnológico**
+## 🛠️ **Arsenal Tecnológico**
+
+<div align="center">
 
 ### 💻 **Sistemas Operativos & Virtualización**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,windows&theme=dark"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,redhat,windows,apple&theme=dark&perline=6"/>
 </div>
+<br>
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 ### 🌐 **Redes & Seguridad**
-<div align="center">
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-</div>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white"/>
 
 ### 🔧 **DevOps & Automatización**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,jenkins&theme=dark"/>
-  <br><br>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,jenkins,github&theme=dark&perline=6"/>
 </div>
+<br>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
 
-### 💾 **Bases de Datos & Servicios**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,nginx,apache&theme=dark"/>
+### 💾 **Bases de Datos & Servicios Web**
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,nginx,apache&theme=dark&perline=6"/>
 </div>
 
 ### 💻 **Desarrollo & Scripting**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,html,css,js,git&theme=dark"/>
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,html,css,js,git,vim&theme=dark&perline=8"/>
 </div>
+
+### ☁️ **Plataformas Cloud**
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+
+</div>
+
+<!-- Separador -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 📊 **Estadísticas de GitHub**
+## 📊 **Estadísticas & Métricas**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohnDSil&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4ECDC4&icon_color=4ECDC4&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnDSil&layout=compact&langs_count=10&theme=react&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohnDSil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&ring_color=FF6B6B"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnDSil&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnDSil&theme=react&hide_border=true&background=0D1117&stroke=4ECDC4&ring=4ECDC4&fire=FF6B6B&currStreakLabel=4ECDC4" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnDSil&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff" />
 </div>
 
-<!-- Contribution Graph -->
+<!-- Contribution Graph mejorado -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnDSil&theme=react-dark&hide_border=true&bg_color=0D1117&color=4ECDC4&line=4ECDC4&point=FF6B6B" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnDSil&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true" width="100%"/>
 </div>
 
-<!-- GitHub Metrics -->
+<!-- Trofeos de GitHub -->
 <div align="center">
-  <img src="https://metrics.lecoq.io/JohnDSil?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FMadrid" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JohnDSil&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4"/>
 </div>
+
+<!-- Separador -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 🏆 **Certificaciones y Logros**
+## 🏆 **Roadmap de Certificaciones**
 
 <div align="center">
-  
-| 🎯 **Objetivo** | 📅 **Timeline** | ✅ **Estado** |
-|:---|:---:|:---:|
-| CompTIA Network+ | 2024 | 🔄 En progreso |
-| CCNA Routing & Switching | 2025 | 📋 Planificado |
-| AWS Cloud Practitioner | 2024 | 📋 Planificado |
-| Docker Certified Associate | 2024 | 🔄 En progreso |
+
+<table>
+<tr>
+<th>🎯 Certificación</th>
+<th>📅 Timeline</th>
+<th>✅ Estado</th>
+<th>🏅 Prioridad</th>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/CompTIA-Network+-FF0000?style=flat-square&logo=comptia&logoColor=white"/> <strong>Network+</strong></td>
+<td>Q2 2024</td>
+<td>🔄 <strong>En progreso</strong></td>
+<td>⭐⭐⭐</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/> <strong>CCNA R&S</strong></td>
+<td>Q1 2025</td>
+<td>📋 Planificado</td>
+<td>⭐⭐⭐</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <strong>Cloud Practitioner</strong></td>
+<td>Q3 2024</td>
+<td>📋 Planificado</td>
+<td>⭐⭐</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Docker-Certified_Associate-2496ED?style=flat-square&logo=docker&logoColor=white"/> <strong>DCA</strong></td>
+<td>Q4 2024</td>
+<td>🔄 <strong>En progreso</strong></td>
+<td>⭐⭐</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/RedHat-RHCSA-EE0000?style=flat-square&logo=redhat&logoColor=white"/> <strong>RHCSA</strong></td>
+<td>Q2 2025</td>
+<td>📋 Planificado</td>
+<td>⭐⭐⭐</td>
+</tr>
+</table>
 
 </div>
 
@@ -137,44 +191,65 @@ hobbies: ["Gaming 🎮", "Reading 📚", "Tech Blogging ✍️"]
 
 <div align="center">
   
-  <!-- Repositorios destacados -->
   <a href="https://github.com/JohnDSil/homelab-setup">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JohnDSil&repo=homelab-setup&theme=react&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JohnDSil&repo=homelab-setup&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=FF6B6B" />
   </a>
   <a href="https://github.com/JohnDSil/network-automation">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JohnDSil&repo=network-automation&theme=react&hide_border=true&bg_color=0D1117&title_color=4ECDC4&text_color=ffffff" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JohnDSil&repo=network-automation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=FF6B6B" />
   </a>
   
 </div>
 
-### 💡 **Proyectos en desarrollo**
-- 🏠 **HomeLab Personal**: Infraestructura virtualizada con Proxmox
-- 🤖 **Scripts de Automatización**: Ansible playbooks para despliegues
-- 🔐 **Security Lab**: Entorno de pruebas para pentesting
-- 📊 **Monitoring Stack**: Prometheus + Grafana + AlertManager
+### 💡 **Proyectos en Desarrollo**
+
+<div align="center">
+
+| 🏠 **Proyecto** | 🛠️ **Tecnologías** | 📊 **Estado** | 🎯 **Objetivo** |
+|:---|:---:|:---:|:---|
+| **HomeLab Enterprise** | Proxmox, Docker, K8s | 🔄 85% | Infraestructura completa de producción |
+| **DevOps Pipeline** | Jenkins, Ansible, Terraform | 🔄 70% | CI/CD automatizado |
+| **Security Lab** | Kali, Metasploit, SIEM | 🔄 60% | Laboratorio de ciberseguridad |
+| **Monitoring Stack** | Prometheus, Grafana, ELK | ✅ 90% | Observabilidad completa |
+
+</div>
+
+<!-- Separador -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ---
 
-## 📚 **Aprendizaje Continuo**
+## 📚 **Learning Journey**
 
 <div align="center">
-  
-### 📖 **Actualmente estudiando**
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🎓 **Próximos objetivos**
-- Cloud Architecture (AWS/Azure)
-- Infrastructure as Code (Terraform)
-- Container Orchestration (Kubernetes)
-- Security Operations (SOC)
+### 📖 **Actualmente Masterizando**
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white"/>
+
+### 🎓 **Próximos Desafíos**
+- 🏗️ **Cloud Architecture** (AWS Solutions Architect)
+- 🤖 **Infrastructure as Code** (Terraform + Ansible)
+- 🚢 **Container Orchestration** (Kubernetes + Helm)
+- 🛡️ **Security Operations** (SOC Analyst)
+- 📊 **Site Reliability Engineering** (SRE Practices)
+
+### 📈 **Skill Progress**
+```
+DevOps           ████████░░  80%
+Linux/Unix       ████████░░  85%
+Networking       ███████░░░  75%
+Security         ██████░░░░  60%
+Cloud (AWS)      █████░░░░░  50%
+Kubernetes       ████░░░░░░  40%
+```
 
 </div>
 
 ---
 
-## 🤝 **Conecta conmigo**
+## 🤝 **Let's Connect!**
 
 <div align="center">
   
@@ -190,68 +265,66 @@ hobbies: ["Gaming 🎮", "Reading 📚", "Tech Blogging ✍️"]
   <a href="https://discord.gg/tu-discord" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA"/>
   </a>
+  <a href="https://t.me/johndsilva" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0"/>
+  </a>
   
   <br><br>
   
   <a href="https://github.com/JohnDSil" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
+    <img src="https://img.shields.io/badge/Follow%20Me%20on%20GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black"/>
   </a>
   
 </div>
 
 ---
 
-## 💬 **Últimas Actividades**
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
+## 🎯 **Daily Motivation**
 
 <div align="center">
   
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=La%20tecnología%20no%20es%20nada.%20Lo%20importante%20es%20que%20tengas%20fe%20en%20la%20gente&author=Steve%20Jobs"/>
 
+<br><br>
 
-### 💭 **Frase Motivacional**
-  
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=La%20tecnología%20es%20mejor%20cuando%20acerca%20a%20las%20personas&author=Matt%20Mullenweg"/>
+### 🌟 **Fun Facts About Me**
+- 🌙 Trabajo mejor durante las noches (Night Owl Developer)
+- ☕ No funciono sin café (literalmente)
+- 🎮 Gaming es mi forma de debugging mental
+- 🏠 Mi HomeLab consume más electricidad que mi nevera
+- 📚 Leo documentación técnica como si fueran novelas
+- 🐧 Tengo más VMs que aplicaciones en mi teléfono
 
 </div>
 
 ---
 
-
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platitudinous/platitudinous/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
-<!-- Footer -->
+<!-- Footer mejorado -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
   
   <br>
   
-  **🌟 ¡Gracias por visitar mi perfil! 🌟**
+  **🌟 ¡Gracias por visitar mi perfil digital! 🌟**
   
   <sub>⚡ *"El futuro pertenece a quienes se preparan para él hoy"* ⚡</sub>
   
+  <br><br>
+  
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
+  <img src="https://forthebadge.com/images/badges/made-with-markdown.svg"/>
+  
 </div>
 
-
-
-
-
-
-<!--
-**JohnDSil/JohnDSil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Visitor Counter -->
+<div align="center">
+  <img src="https://count.getloli.com/get/@JohnDSil?theme=rule34" alt="Visitor Count"/>
+</div>

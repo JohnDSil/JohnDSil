@@ -324,7 +324,4 @@ Kubernetes       ████░░░░░░  40%
   
 </div>
 
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://count.getloli.com/get/@JohnDSil?theme=rule34" alt="Visitor Count"/>
-</div>
+

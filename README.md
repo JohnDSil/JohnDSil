@@ -300,10 +300,7 @@ Kubernetes       ████░░░░░░  40%
 ---
 
 <!-- Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platitudinous/platitudinous/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
+![Snake animation](https://raw.githubusercontent.com/platitudinous/platitudinous/output/github-contribution-grid-snake.svg)
 ---
 
 <!-- Footer mejorado -->

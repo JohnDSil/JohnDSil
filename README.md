@@ -299,9 +299,7 @@ Kubernetes       ████░░░░░░  40%
 
 ---
 
-<!-- Snake Animation -->
-![Snake animation](https://raw.githubusercontent.com/platitudinous/platitudinous/output/github-contribution-grid-snake.svg)
----
+
 
 <!-- Footer mejorado -->
 <div align="center">

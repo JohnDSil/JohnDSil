@@ -191,7 +191,7 @@
 
 <div align="center">
   
-  <a href="https://github.com/JohnDSil/homelab-setup">
+  <a href="https://johndsil.github.io/Apuntes-ASIR/">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JohnDSil&repo=homelab-setup&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=FF6B6B" />
   </a>
   <a href="https://github.com/JohnDSil/network-automation">

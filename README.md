@@ -10,6 +10,15 @@
 
 <br>
 
+<!-- OPEN TO WORK BANNER -->
+<div align="center">
+
+  ![Open To Work](https://img.shields.io/badge/🟢_DISPONIBLE-Buscando_prácticas_o_trabajo_este_verano-2ea44f?style=for-the-badge)
+
+</div>
+
+<br>
+
 <!-- BADGES -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=JohnDSil&color=00D9FF&style=for-the-badge&label=VISITAS"/>
@@ -27,7 +36,34 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> ¿Quién soy?
+## 🔨 Actualmente trabajando en...
+
+<div align="center">
+
+| 🏗️ Proyecto | 📝 Descripción | 🔗 Link |
+|:---|:---|:---:|
+| 📘 **Apuntes ASIR** | Documentación completa del Grado Superior en Markdown — apuntes de todos los módulos de 1º organizados y accesibles | [Ver repo](https://github.com/JohnDSil/Apuntes-ASIR) |
+| 🐳 **Aprendiendo Docker** | Profundizando en contenedores para 2º ASIR | 🔄 En progreso |
+| 📋 **Preparando Network+** | Estudiando para la certificación CompTIA | 📚 En progreso |
+
+</div>
+
+---
+
+## 🌟 Proyecto destacado
+
+<div align="center">
+
+[![Apuntes ASIR](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JohnDSil&repo=Apuntes-ASIR&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&icon_color=FF6B6B)](https://github.com/JohnDSil/Apuntes-ASIR)
+
+> 📘 **¿Qué es?** Una página/repositorio con todos mis apuntes del Grado Superior ASIR escritos en Markdown.
+> Organizada por módulos, pensada para ser útil tanto para mí como para otros estudiantes de ASIR.
+>
+> 💡 *Si estás estudiando ASIR y te resulta útil, dale una ⭐ — me ayuda a saber que merece la pena seguir.*
+
+</div>
+
+---
 
 <img align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif" width="340" height="255"/>
 
@@ -122,10 +158,66 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnDSil&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=ffffff" width="60%"/>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnDSil&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true" width="100%"/>
 </div>
 
+
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🏠 Mi HomeLab *(en construcción)*
+
+> *Todo SysAdmin empieza en algún sitio. El mío empieza aquí.*
+
+<div align="center">
+
+```
+┌─────────────────── MI LAB ───────────────────┐
+│                                               │
+│   💻 Máquina Host                             │
+│   └── VirtualBox / VMware                    │
+│        ├── 🐧 Ubuntu Server  → servicios web  │
+│        └── 🪟 Windows Server → Active Dir.   │
+│                                               │
+│   🎯 Próximo objetivo: añadir un mini-PC      │
+│      dedicado para correr Docker 24/7         │
+└───────────────────────────────────────────────┘
+```
+
+| 🖥️ Máquina | 💿 SO | ⚙️ Rol | 📊 Estado |
+|:---|:---:|:---|:---:|
+| **VM 1** | Ubuntu Server 22.04 | Apache, Nginx, DNS, DHCP | ✅ Activa |
+| **VM 2** | Windows Server 2022 | Active Directory, GPOs | ✅ Activa |
+| **Próximo paso** | Cualquier Linux | Docker + contenedores | 🔄 Planeando |
+
+</div>
+
+---
+
+## 🚀 Proyectos futuros
+
+> *Lo que tengo en mente para cuando acabe 2º y gane más experiencia.*
+
+<div align="center">
+
+| 🏗️ Proyecto | 🛠️ Tecnologías | 🎯 Objetivo | 📅 Cuándo |
+|:---|:---:|:---|:---:|
+| **HomeLab completo** | Proxmox, Docker | Infraestructura real con múltiples servicios | 2º ASIR |
+| **Pipeline CI/CD propio** | Jenkins, GitHub Actions | Automatizar despliegues desde cero | 2º ASIR |
+| **Lab de ciberseguridad** | Kali, Metasploit | Practicar pentesting en entorno controlado | 2025-2026 |
+| **Stack de monitorización** | Prometheus, Grafana | Observabilidad completa de mis servicios | 2025-2026 |
+| **Servidor NAS casero** | TrueNAS / Samba | Almacenamiento y backup centralizado | 2025-2026 |
+| **Despliegue cloud real** | AWS / Terraform | Infraestructura como código en la nube | 2026 |
+
+</div>
 
 ---
 
@@ -189,7 +281,7 @@
 
 ## 📚 Recursos que uso para aprender
 
-> *Estos son los sitios, canales y plataformas que realmente me están ayudando. Los comparto por si le sirven a alguien más.*
+> *Los comparto por si le sirven a alguien más. Estos son los que realmente uso, no una lista random.*
 
 <div align="center">
 
@@ -245,6 +337,38 @@
 
 ---
 
+## 💼 Disponible este verano
+
+<div align="center">
+
+> 🟢 **Estoy buscando activamente prácticas o trabajo para el verano 2026.**
+> Si tienes una oportunidad o quieres hablar, escríbeme sin compromiso.
+
+<br>
+
+| | |
+|:---:|:---|
+| 🎯 **Qué busco** | Prácticas, trabajo de verano o posición junior en IT |
+| 🛠️ **Roles que encajan** | Técnico Helpdesk · Soporte IT · Técnico de Sistemas Junior |
+| 📍 **Ubicación** | Andalucía, España — presencial o remoto |
+| 📅 **Disponibilidad** | Verano 2026 (junio - septiembre) |
+| 💬 **Contacto** | [silvareinadaniel@gmail.com](mailto:silvareinadaniel@gmail.com) · [LinkedIn](https://www.linkedin.com/in/daniel-silva-reina-710907347/) |
+
+<br>
+
+**¿Qué puedo aportar?**
+
+![Soporte Técnico](https://img.shields.io/badge/✔_Soporte_Técnico-Helpdesk_N1%2FN2-00D9FF?style=flat-square)
+![Windows Server](https://img.shields.io/badge/✔_Windows_Server-Active_Directory-0078D4?style=flat-square&logo=microsoft)
+![Linux](https://img.shields.io/badge/✔_Linux-Administración_básica-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Redes](https://img.shields.io/badge/✔_Redes-TCP%2FIP_·_DNS_·_DHCP-1BA0D7?style=flat-square&logo=cisco)
+![Scripting](https://img.shields.io/badge/✔_Scripting-Bash_·_PowerShell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Hardware](https://img.shields.io/badge/✔_Hardware-Montaje_y_mantenimiento-FF6B6B?style=flat-square)
+
+</div>
+
+---
+
 ## 🤝 Contacto
 
 <div align="center">
@@ -263,12 +387,30 @@
 
 ### 🌟 Fun Facts
 
-- 🌙 Trabajo mejor de noche — el silencio es mi mejor entorno de producción
-- ☕ El café no es opcional, es un servicio crítico de mi infraestructura personal
-- 🏠 Mi HomeLab es pequeño pero crece con cada módulo nuevo que aprendo
-- 🐧 Cada semana que pasa, el ratón me da más pereza que la terminal
-- 📚 Leo documentación técnica para dormir (y sorprendentemente funciona)
-- 🔧 Si algo falla, lo primero que hago es buscarlo en la ArchWiki
+```bash
+$ cat /etc/daniel/fun_facts.txt
+
+[*] Trabajo mejor de noche — el silencio es mi entorno de producción ideal
+[*] El café no es opcional: es un servicio crítico sin SLA definido
+[*] Mi HomeLab son dos VMs... pero en mi cabeza es un datacenter de tres plantas
+[*] Cada semana que pasa, el ratón me da más pereza que la terminal
+[*] He roto el sistema operativo más veces de las que me gustaría admitir
+    └── Y he aprendido más con cada rotura que con cualquier tutorial
+[*] Si algo falla, mi primer instinto es abrir la ArchWiki — aunque use Ubuntu
+[*] Gaming es mi forma de hacer rollback mental después de prácticas intensas
+[*] Tengo más snapshots de VMs que fotos en el móvil
+```
+
+---
+
+<!-- QUOTE -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=La%20mejor%20forma%20de%20aprender%20sistemas%20es%20romperlos%20y%20arreglarlos&author=Cualquier%20SysAdmin%20honesto"/>
+</div>
+
+<br>
+
+
 
 ---
 

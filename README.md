@@ -181,15 +181,15 @@
 
 ```
 ┌─────────────────── MI LAB ───────────────────┐
-│                                               │
-│   💻 Máquina Host                             │
+│                                              │
+│   💻 Máquina Host                            │
 │   └── VirtualBox / VMware                    │
-│        ├── 🐧 Ubuntu Server  → servicios web  │
+│        ├── 🐧 Ubuntu Server  → servicios web │
 │        └── 🪟 Windows Server → Active Dir.   │
-│                                               │
-│   🎯 Próximo objetivo: añadir un mini-PC      │
-│      dedicado para correr Docker 24/7         │
-└───────────────────────────────────────────────┘
+│                                              │
+│   🎯 Próximo objetivo: añadir un mini-PC     │
+│      dedicado para correr Docker 24/7        │
+└──────────────────────────────────────────────┘
 ```
 
 | 🖥️ Máquina | 💿 SO | ⚙️ Rol | 📊 Estado |
